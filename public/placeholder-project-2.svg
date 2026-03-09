@@ -1,0 +1,18 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="48" fill="#F1ECE3"/>
+  <path d="M160 670C264 472 456 248 650 248C844 248 934 376 1040 592" stroke="#111111" stroke-opacity="0.18" stroke-width="2"/>
+  <circle cx="330" cy="320" r="180" fill="url(#paint0_radial_2)"/>
+  <circle cx="838" cy="560" r="240" fill="url(#paint1_radial_2)"/>
+  <text x="96" y="124" fill="#111111" font-size="46" font-family="Arial, sans-serif">Image-to-3D / Relief</text>
+  <text x="96" y="178" fill="#5B5750" font-size="24" font-family="Arial, sans-serif">Depth · Point Cloud · Fabrication Workflow</text>
+  <defs>
+    <radialGradient id="paint0_radial_2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(330 320) rotate(90) scale(180)">
+      <stop stop-color="#C9824B"/>
+      <stop offset="1" stop-color="#C9824B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint1_radial_2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(838 560) rotate(90) scale(240)">
+      <stop stop-color="#AFC5DB"/>
+      <stop offset="1" stop-color="#AFC5DB" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

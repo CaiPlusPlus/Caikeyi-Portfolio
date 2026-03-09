@@ -1,0 +1,8 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="40" fill="#F2ECE3"/>
+  <rect x="96" y="164" width="1008" height="396" rx="30" fill="#111111" fill-opacity="0.04" stroke="#111111" stroke-opacity="0.08"/>
+  <rect x="142" y="220" width="380" height="24" rx="12" fill="#111111" fill-opacity="0.12"/>
+  <rect x="142" y="286" width="760" height="18" rx="9" fill="#111111" fill-opacity="0.08"/>
+  <rect x="142" y="330" width="692" height="18" rx="9" fill="#111111" fill-opacity="0.08"/>
+  <text x="96" y="132" fill="#111111" font-size="40" font-family="Arial, sans-serif">Scalable AI Systems</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="48" fill="#171717"/>
+  <rect x="118" y="140" width="964" height="612" rx="32" fill="#F8F3EB" fill-opacity="0.06" stroke="rgba(255,255,255,0.16)"/>
+  <rect x="178" y="216" width="250" height="46" rx="23" fill="#F8F3EB" fill-opacity="0.12"/>
+  <rect x="178" y="302" width="488" height="16" rx="8" fill="#F8F3EB" fill-opacity="0.16"/>
+  <rect x="178" y="338" width="420" height="16" rx="8" fill="#F8F3EB" fill-opacity="0.12"/>
+  <rect x="178" y="432" width="824" height="220" rx="24" fill="#F8F3EB" fill-opacity="0.08"/>
+  <text x="96" y="124" fill="#F7F4EC" font-size="44" font-family="Arial, sans-serif">xTool Studio AI Assistant</text>
+</svg>
